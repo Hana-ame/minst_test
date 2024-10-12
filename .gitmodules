@@ -1,0 +1,3 @@
+[submodule "LSTM_RNN_Tutorials_with_Demo"]
+	path = LSTM_RNN_Tutorials_with_Demo
+	url = https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo.git
