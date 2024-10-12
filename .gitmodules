@@ -7,3 +7,6 @@
 [submodule "pytorch_tutorial/Tools"]
 	path = pytorch_tutorial/Tools
 	url = git@github.com:Hana-ame/Tools.git
+[submodule "LLMs-from-scratch"]
+	path = LLMs-from-scratch
+	url = https://github.com/rasbt/LLMs-from-scratch.git
