@@ -10,3 +10,9 @@
 [submodule "LLMs-from-scratch"]
 	path = LLMs-from-scratch
 	url = https://github.com/rasbt/LLMs-from-scratch.git
+[submodule "Diffusion-Models-pytorch"]
+	path = Diffusion-Models-pytorch
+	url = https://github.com/dome272/Diffusion-Models-pytorch.git
+[submodule "denoising-diffusion-pytorch"]
+	path = denoising-diffusion-pytorch
+	url = https://github.com/lucidrains/denoising-diffusion-pytorch.git
