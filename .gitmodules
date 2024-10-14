@@ -16,3 +16,6 @@
 [submodule "denoising-diffusion-pytorch"]
 	path = denoising-diffusion-pytorch
 	url = https://github.com/lucidrains/denoising-diffusion-pytorch.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/pytorch/pytorch.git
