@@ -6,3 +6,5 @@ lib
 lib64
 
 *.pt
+
+*.txt
